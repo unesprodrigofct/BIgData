@@ -1,6 +1,6 @@
 # BIgData
 
-
+CREATE EXTERNAL TABLE 
 your_table_name(
 
 
